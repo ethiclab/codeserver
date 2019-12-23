@@ -1,0 +1,13 @@
+{
+  "name": "codeserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ethic Lab Team <team@ethiclab.it>",
+  "dependencies": {
+    "@ethiclab/getarg": "^1.0.1",
+    "express": "^4.17.1"
+  }
+}
